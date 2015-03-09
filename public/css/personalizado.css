@@ -1,0 +1,31 @@
+html, body{
+    height: 100%;
+}
+
+.centra{
+    vertical-align: middle;
+    line-height: 50px;
+    height: 50px;
+    color: #ffffff;
+}
+
+.left-side-navbar{
+    position: fixed;
+    height: auto;
+    min-height: 500px;
+    top:0; bottom: 0;
+    background: #aaa;
+}
+
+#logo > a{
+    height: 140px;
+    width: 150px;
+    float:left;
+    display:block;
+}
+img.logo {
+    width: 120px;
+}
+#sidebar-wrapper{
+    background: #222 !important;
+}
